@@ -87,10 +87,6 @@ npx image-dimensions unicorn.png
 630x400
 ```
 
-## FAQ
-
-### How does this differ from [`image-size`](https://github.com/image-size/image-size)?
-
 **Advantages of this package**
 
 - Zero dependencies
@@ -105,5 +101,4 @@ npx image-dimensions unicorn.png
 
 ## Related
 
-- [image-type](https://github.com/sindresorhus/image-type) - Detect the type of an image
-- [file-type](https://github.com/sindresorhus/file-type) - Detect the type of a file
+- [file-type](https://github.com/Unity-Billal-mesloub/file-type) - Detect the type of a file
